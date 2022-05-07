@@ -78,12 +78,11 @@ the minimum temperature of 56 (December) and 64 (June) show the greatest varianc
 * Recommendations for further analysis:
  Additional queries that could be run include: 
  
-   
-   1-Precipation difference between June and December to determine is one has more rainy weather.Hence, we need to gain more data from the area to run more queries.
+   1-We need pecipation data difference between June and December to determine which month has more rainy days.
    
    2-Comaparison between weather stations, as we may see higher/lower temperatures and precipitation levels at different locations
    
-   3-Additional data can be gathered such as wave swells and wind condition to have more analystic overview
+   3-Also data regarding  wave swells and wind condition would be helpful to have more analystic perspective.
 
 ## Summary
 December and June weather are very similar, although December has a wider range of results, with its high being close to June's but its low well below June's.
