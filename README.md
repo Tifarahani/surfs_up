@@ -7,10 +7,6 @@ Once we run our queries we store the temperatures in a list then convert them to
 - **Python** 
 - **Pandas** 
 - **SQLAlchemy** 
-- **PostreSQL**  
-- **pgAdmin**
-
-
 
 ## Deliverable 1: Determine the Summary Statistics for June
 <p align="center">  
