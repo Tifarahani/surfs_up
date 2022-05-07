@@ -74,15 +74,16 @@ Once we run our queries we store the temperatures in a list then convert them to
 ## Deliverable 3:A written report for the statistical analysis
 
 The key differences in weather between June and December and two recommendations for further analysis.
-*
+Average temperature between June and December is 75 and 71 degrees respectively, show a moderate temperature and very little fluctuation between the two periods from an average standpoint.
+the maximum temperatures of 85 (June) and 83 (December) are also remarkable similar.
+the minimum temperature of 56 (December) and 64 (June) show the greatest variance, and reflects a much lower temperature level in December that may not be conducive to ice cream or surfing. However, with standard deviations of 3.25 (June) and 3.74 (December) we would expect a little more variation in the december numbers.
 
 * Two recommendations for further analysis:
-1-
-2-
-
-Results: Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
-*
-*
+ Additional queries that could be run include: 
+   1-Precipation difference between June and December to determine is one has more rainy weather.Hence, we need to gain more data from the area to run more queries.
+   2-Comaparison between weather stations, as we may see higher/lower temperatures and precipitation levels at different locations
+   3-Additional data can be gathered such as wave swells and wind condition to have more analystic overview
 
 ## Summary
-Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
+December and June weather are very similar, although December has a wider range of results, with its high being close to June's but its low well below June's.
+The average temperatures in June and December only differ by 4 degrees. It woul dbe advisable to open a surf and icecream shop.
