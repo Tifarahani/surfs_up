@@ -61,17 +61,8 @@
 <i>Figure 7:Convert list to DataFrame</i>
 </p>
 ---
-
 <p align="center">  
- <img src="https://github.com/Tifarahani/surfs_up/blob/main/Images/Create%20Data%20Frame%20from%20list%20of%20December.png"  title="hover text">
-</p>
-<p align="center">  
-<i>Figure 7:Convert list to DataFrame</i>
-</p>
----
-<p align="center">  
- <img src="
-https://github.com/Tifarahani/surfs_up/blob/main/Images/Calculate%20and%20print%20out%20summary%20of%20Dec%20DF.png"  title="hover text">
+ <img src="https://github.com/Tifarahani/surfs_up/blob/main/Images/Calculate%20and%20print%20out%20summary%20of%20Dec%20DF.png"  title="hover text">
 </p>
 <p align="center">  
 <i>Figure 8:Generating the summary statistics for the December temperatures DataFrame</i>
