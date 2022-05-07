@@ -75,11 +75,12 @@ Average temperature between June and December is 75 and 71 degrees respectively,
 the maximum temperatures of 85 (June) and 83 (December) are also remarkable similar.
 the minimum temperature of 56 (December) and 64 (June) show the greatest variance, and reflects a much lower temperature level in December that may not be conducive to ice cream or surfing. However, with standard deviations of 3.25 (June) and 3.74 (December) we would expect a little more variation in the december numbers.
 
-* Two recommendations for further analysis:
+* Recommendations for further analysis:
  Additional queries that could be run include: 
-   1-Precipation difference between June and December to determine is one has more rainy weather.Hence, we need to gain more data from the area to run more queries.
-   2-Comaparison between weather stations, as we may see higher/lower temperatures and precipitation levels at different locations
-   3-Additional data can be gathered such as wave swells and wind condition to have more analystic overview
+ 
+   *1-Precipation difference between June and December to determine is one has more rainy weather.Hence, we need to gain more data from the area to run more queries.
+   *2-Comaparison between weather stations, as we may see higher/lower temperatures and precipitation levels at different locations
+   *3-Additional data can be gathered such as wave swells and wind condition to have more analystic overview
 
 ## Summary
 December and June weather are very similar, although December has a wider range of results, with its high being close to June's but its low well below June's.
