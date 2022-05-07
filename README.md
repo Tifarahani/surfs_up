@@ -15,9 +15,14 @@
  <img src="https://github.com/Tifarahani/surfs_up/blob/main/Images/Import%20and%20Filter%20Data%20of%20June.png"  title="hover text">
 </p>
 <p align="center">  
-<i>Figure 1:retrieve all the temperatures for the month of June</i>
+<i>Figure 1:Retrieve all the temperatures for the month of June</i>
 </p>
-
+<p align="center">  
+ <img src="https://github.com/Tifarahani/surfs_up/blob/main/Images/Convert%20june%20temp%20to%20list.png"  title="hover text">
+</p>
+<p align="center">  
+<i>Figure 2:Convert Data to list</i>
+</p>
 
 ## Deliverable 2: Determine the Summary Statistics for December
 
