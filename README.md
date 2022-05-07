@@ -31,6 +31,14 @@
 <p align="center">  
 <i>Figure 3:Convert list to DataFrame</i>
 </p>
+---
+<p align="center">  
+ <img src="https://github.com/Tifarahani/surfs_up/blob/main/Images/June%20Temp.png"  title="hover text">
+</p>
+<p align="center">  
+<i>Figure 4:Generating the summary statistics for the June temperatures DataFrame</i>
+</p>
+
 ## Deliverable 2: Determine the Summary Statistics for December
 
 
