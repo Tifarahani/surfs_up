@@ -40,7 +40,12 @@
 </p>
 
 ## Deliverable 2: Determine the Summary Statistics for December
-
+<p align="center">  
+ <img src="https://github.com/Tifarahani/surfs_up/blob/main/Images/December%20filtering%20Data.png"  title="hover text">
+</p>
+<p align="center">  
+<i>Figure 5 :Retrieve all the temperatures for the month of December</i>
+</p>
 
 ## Deliverable 3:A written report for the statistical analysis
 
