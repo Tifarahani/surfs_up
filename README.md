@@ -2,7 +2,7 @@
 ## Overview of the analysis:Explain the purpose of this analysis.
 
 The purpose of our analysis is to see temperature statistics for June and December to see if running a surf shop is sustainable year around. The way we get the temperature data is by running two seperate queries, one being for June and the other being December. 
-Once we run our queries we store the temperatures in a list then convert them to a dataframe. Once our dataframe is created we are able to get our summary statistics by using the .describe() method. We can refer to Figure 4 [^Figure 4] and Figure 8 for summary of the result in the following months.
+Once we run our queries we store the temperatures in a list then convert them to a dataframe. Once our dataframe is created we are able to get our summary statistics by using the .describe() method. We can refer to Figure 4 [^4] and Figure 8 for summary of the result in the following months.
 ### Resources  
 - **Python** 
 - **Pandas** 
