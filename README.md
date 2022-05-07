@@ -46,7 +46,37 @@
 <p align="center">  
 <i>Figure 5 :Retrieve all the temperatures for the month of December</i>
 </p>
+---
+<p align="center">  
+ <img src="https://github.com/Tifarahani/surfs_up/blob/main/Images/Converting%20December%20Temp%20to%20a%20list.png"  title="hover text">
+</p>
+<p align="center">  
+<i>Figure 6:Convert Data to list</i>
+</p>
+---
+<p align="center">  
+ <img src="https://github.com/Tifarahani/surfs_up/blob/main/Images/Create%20Data%20Frame%20from%20list%20of%20December.png"  title="hover text">
+</p>
+<p align="center">  
+<i>Figure 7:Convert list to DataFrame</i>
+</p>
+---
 
+<p align="center">  
+ <img src="https://github.com/Tifarahani/surfs_up/blob/main/Images/Create%20Data%20Frame%20from%20list%20of%20December.png"  title="hover text">
+</p>
+<p align="center">  
+<i>Figure 7:Convert list to DataFrame</i>
+</p>
+---
+<p align="center">  
+ <img src="
+https://github.com/Tifarahani/surfs_up/blob/main/Images/Calculate%20and%20print%20out%20summary%20of%20Dec%20DF.png"  title="hover text">
+</p>
+<p align="center">  
+<i>Figure 8:Generating the summary statistics for the December temperatures DataFrame</i>
+</p>
+---
 ## Deliverable 3:A written report for the statistical analysis
 
 
