@@ -12,10 +12,10 @@
 
 ## Deliverable 1: Determine the Summary Statistics for June
 <p align="center">  
- <img src="https://.png" width="350" title="hover text">
+ <img src="https://github.com/Tifarahani/surfs_up/blob/main/Images/Import%20and%20Filter%20Data%20of%20June.png" width="350" title="hover text">
 </p>
 <p align="center">  
-<i>Figure 1: ERD</i>
+<i>Figure 1:retrieve all the temperatures for the month of June</i>
 </p>
 
 
