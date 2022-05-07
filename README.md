@@ -68,9 +68,12 @@
 <i>Figure 8:Generating the summary statistics for the December temperatures DataFrame</i>
 </p>
 ---
+
 ## Deliverable 3:A written report for the statistical analysis
+
 The key differences in weather between June and December and two recommendations for further analysis.
 *
+
 * Two recommendations for further analysis:
 1-
 2-
